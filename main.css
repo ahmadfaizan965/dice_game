@@ -1,0 +1,68 @@
+body{
+    height: 100%vh;
+    width: 100%vw;
+    background-color: #222831;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/* Image Divs */
+.player-img{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    left: 30%;
+    margin-top: 30px;
+    padding: 0;
+    position: absolute;
+    top: 30%;
+}
+.computer-img{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    padding: 0;
+    top: 30%;
+    left: 50%;
+    position: absolute;
+
+}
+
+/* Heading, Sub Headings, & Winning Message Text */
+
+h1{
+    color: #00ADB5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32pt;
+}
+h4{
+    color: #EEEEEE;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 0;
+    font-size: 20pt;
+
+}
+h2{
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p{
+    font-weight: bold;
+}
+
+.credit{
+    color: #00ADB5;
+}
+
+/* Footer */
+.footer{
+    top: 90%;
+    position: fixed;
+    left: 35%;
+    color: #EEE;
+}   
+
