@@ -1,5 +1,8 @@
 # JavaScript Dice Game
 <br>
+![dice_game](https://user-images.githubusercontent.com/69793423/133613511-f1d278dd-9455-4c49-b960-89dfa09ed803.png)
+<br>
+
 <p>It is a simple game between Player and Computer. It randomly generates two different dice numbers, by which the winner of the game decide. I have coded this for my JS practice. Topics covered are <strong>JS function, variable, randomisation, DOM Manipulation etc</strong></p>
 
 
