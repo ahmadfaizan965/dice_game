@@ -1,6 +1,6 @@
 # JavaScript Dice Game
 <br>
-<img src="dice_game.png" alt="Screenshot" style="height: 100px; width:100px;"/>
+<img src="dice_game.png" alt="Screenshot" style="height: 720px; width:1000px;"/>
 <br>
 
 <p>It is a simple game between Player and Computer. It randomly generates two different dice numbers, by which the winner of the game decide. I have coded this for my JS practice. Topics covered are <strong>JS function, variable, randomisation, DOM Manipulation etc</strong></p>
