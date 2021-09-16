@@ -4,6 +4,7 @@
 
 
 ## How To Use It:
-1. clone the repo using command `git clone https://github.com/ahmadfaizan965/dice_game.git ` 
-2. Open `index.html` in chrome/firefox/IE/safari.
-3. To Play around with code, open the cloned folder in VS CODE (or any text editor of your choice.)
+1. Fork into the repository.
+2. clone the repo using command `git clone https://github.com/ahmadfaizan965/dice_game.git ` 
+3. Open `index.html` in chrome/firefox/IE/safari.
+4. To Play around with code, open the cloned folder in VS CODE (or any text editor of your choice.)
